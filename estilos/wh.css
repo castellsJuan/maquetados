@@ -42,8 +42,13 @@ h1{
 }
 
 p{
-    
+    font-family: 'Roboto', sans-serif;
+    color: #04146c;
+    font-weight: 400;
+    font-size: 35px;
 }
 
 img{
+    width: 100%;
 }
+
