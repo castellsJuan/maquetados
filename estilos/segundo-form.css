@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital@0;1&display=swap');
+
+body{
+    font-family: 'Mulish', sans-serif;
+    background-image: url('../img/segundo-form/fondo-body.png');
+}
+
+div{
+    width: 50%;
+    margin: auto;
+    background-image: url('../img/segundo-form/fondo-div.png');
+    padding: 30px;
+}
+
+form{
+    border: solid 1px #606ec3;
+    box-sizing: border-box;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    padding: 20px;
+    background-color: white;
+}
+
+label, input, button, a{
+    margin: 0 auto;
+    display: block;
+}
+
+label{
+    margin-top: 30px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #04146c;
+}
+
+label, a{
+    text-align: center;
+}
+
+input, button{
+    width: 500px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+input, a{
+    font-weight: 400;
+    font-size: 18.6px;
+}
+
+input{
+    color: #414166;
+}
+
+button{
+    font-size: 20px;
+    color: white;
+    background-color: #0a2ff1;
+}
+
+hr{
+    width: 500px;
+}
+
+a{
+    color:#0a2ff1;
+    
+}
+

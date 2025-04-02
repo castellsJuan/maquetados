@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=MuseoModerno:wght@100..900&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;    
+}
+
+main{
+    text-align: center;
+    max-width: 1200px;
+    margin: auto;
+}
+
+div{ /*este seria el de noviembre*/
+    font-size: 50pt;
+    color: white;
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+.invertido{
+    color:black;
+    background-color: white;
+}
+
+#black{
+    font-size: 148pt;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#friday{
+    font-size: 163pt;
+    padding-top: 100px;
+    padding-bottom: 90px;
+}
+
+#descuentos{
+    font-size: 36pt;
+    font-weight: 600;
+}
+
+#descuentos strong{
+    font-size: 45pt;
+    font-weight: 700;
+}
+
+#no-te-lo-pierdas{
+    font-size: 44pt;
+    font-weight: 600;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+

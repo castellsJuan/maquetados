@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+header{
+    background-image: url ('../img/designos/designos.png');
+    background-size: contain;
+}
+
+img{
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+main{
+    width: 80%;
+    padding: 10px;
+    margin: auto;
+}
+
+h1{
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 58.6px;
+    color: #0a2ff1;
+    margin-left: 40px;
+}
+
+p{
+    font-size: 25.3px;
+    font-weight: 400;
+}
+
+h5{
+    font-weight: 700;
+    color: #0a2ff1;
+    font-size: 25.3px;
+}
+
+#pregunta{
+    font-weight: 400;
+    font-size: 24px;
+}
+
+button{
+    width: 300px;
+    height: 50px;
+    margin-bottom: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 26.6px;
+    background-color: #0a2ff1;
+    color: white;
+}
+
+footer{
+    width: 100%;
+    background-color: #15163d;
+}
+
+

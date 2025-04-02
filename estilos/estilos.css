@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&family=MuseoModerno:wght@100..900&display=swap');
+
+body{
+    font-family: "MuseoModerno", sans-serif;
+    color: #0a2ff1;
+    font-weight: 700;
+    background-color: #edf7ff;
+}
+
+h1{
+    font-size: 88pt;
+    font-weight: 700;
+}
+
+h2{
+    font-family: 'Asap', sans-serif;
+    font-size: 39pt;
+    font-weight: 400;
+}
+
+p{
+    font-family: 'Asap', sans-serif;
+    font-size: 25pt;
+    font-weight: 400;
+    color: #04146c;
+}
+
+#conoce-mendoza{
+    font-size: 36pt;
+    font-weight: 700;
+}
+
+ul{
+    font-family: 'Asap', sans-serif;
+    font-size: 25pt;
+    font-weight: 700;
+    color:#04146c;
+}
+
+#modo-mendoza{
+    font-size: 149pt;
+    color: #8a9af1;
+}
